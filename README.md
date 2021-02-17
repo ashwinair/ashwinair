@@ -3,7 +3,7 @@
 <!--![Alt Text](https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif)-->
 
 
-- 🔭 I’m currently working on Porfolio Website using Flutter
+- 🔭 I’m currently working on Gym Progress Tracker app using Flutter
 - 🌱 I’m currently learning Python
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
