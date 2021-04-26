@@ -11,7 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 - 📫 How to reach me: --->
-## Find me on
+<h3 align ="center">Find me on</h3>
+<br/>
 <p align="center">
 <br/>
 <a href="https://twitter.com/ashwinnair0007">
@@ -32,10 +33,10 @@
 <!-- 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/> -->
   <img width="10%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
-  <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
-  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Android_logo_2019.svg"/>
-  <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
-  <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
+  <img width="10%" style="padding:10px" src="https://media.giphy.com/media/efmcjFrDm4RQ4j9N5i/giphy.gif"/>
+  <img width="10%" style="padding:10px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
+  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
  
 </p>
 
