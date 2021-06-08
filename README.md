@@ -40,6 +40,7 @@
  
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwin-exe&show_icons=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwin-exe&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe)](https://github.com/anuraghazra/github-readme-stats)
