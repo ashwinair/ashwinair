@@ -35,8 +35,8 @@
   <img width="10%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
   <img width="10%" style="padding:10px" src="https://media.giphy.com/media/efmcjFrDm4RQ4j9N5i/giphy.gif"/>
   <img width="10%" style="padding:10px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
-  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
-  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/>
+<!--   <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
+  <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/> -->
  
 </p>
 
