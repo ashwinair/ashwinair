@@ -26,15 +26,15 @@
 </a>
 </p>
 
-### Tech stack
+<h3 align ="center">Tech Stack</h3>
 
 <p align="center">
-	<img width="12%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 <!-- 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/> -->
-  <img width="10%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
-  <img width="10%" style="padding:10px" src="https://media.giphy.com/media/efmcjFrDm4RQ4j9N5i/giphy.gif"/>
-  <img width="10%" style="padding:10px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+  <img width="5%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
+  <img width="5%" style="padding:5px" src="https://media.giphy.com/media/efmcjFrDm4RQ4j9N5i/giphy.gif"/>
+  <img width="5%" style="padding:5px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 <!--   <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
   <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"/> -->
  
