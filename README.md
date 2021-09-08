@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img  src="https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif" width="200">
+<img  src="https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif" width="150">
 <!--![Alt Text](https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif)-->
 
 
@@ -41,10 +41,13 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwin-exe&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe)
 
+|<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-exe&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-exe&theme=dark&hide_border=true"/>|
+|---|---|
+<img src="https://activity-graph.herokuapp.com/graph?username=Ashwin-exe&theme=github" />
 
+<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/arnabsen1729/arnabsen1729/Build%20README?style=for-the-badge" align="right">
 <!-- TO-DO's
 //sorting visualizer
