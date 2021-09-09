@@ -48,6 +48,10 @@
 |---|---|
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashwin-exe&theme=github" />
 
+
+
+![Snake animation](https://raw.githubusercontent.com/Ashwin-exe/Ashwin-exe/output/github-contribution-grid-snake.svg)
+
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/arnabsen1729/arnabsen1729/Build%20README?style=for-the-badge" align="right">
 <!-- TO-DO's
 //sorting visualizer
