@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 - 📫 How to reach me: --->
-<h3 align ="center">Find me on</h3>
+<!-- <h3 align ="center">Find me on</h3>
 <br/>
 <p align="center">
 <br/>
@@ -32,7 +32,7 @@
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 <!-- 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/> -->
-  <img width="5%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
+<!--   <img width="5%" style="padding:5px" src="https://miro.medium.com/max/500/1*ilC2Aqp5sZd1wi0CopD1Hw.png"/>
   <img width="5%" style="padding:5px" src="https://media.giphy.com/media/efmcjFrDm4RQ4j9N5i/giphy.gif"/>
   <img width="5%" style="padding:5px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 <!--   <img width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"/>
@@ -42,7 +42,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe) -->
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-exe&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-exe&theme=dark&hide_border=true"/>|
 |---|---|
