@@ -3,7 +3,7 @@
 <!--![Alt Text](https://media.giphy.com/media/ITacRy2zH4vMQ/giphy.gif)-->
 
 
-- 🔭 I’m currently working on my DSA Problem solvoing skills
+- 🔭 I’m currently working on my [DSA Problem solvoing skills](https://github.com/Ashwin-exe/DSA-problem-solving)
 - 🌱 New to Open Source
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
