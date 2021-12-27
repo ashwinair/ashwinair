@@ -44,14 +44,14 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-exe) -->
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-exe&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashwin-exe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD053B&sideLabels=FFFFFF&border=000000&stroke=FFFFFF&ring=C00433D9&currStreakLabel=FFFFFF&sideNums=0DC22E&currStreakNum=88F8B2&background=1D252C"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=ashwinair&title_color=DD053B&icon_color=DD053B&text_color=F8F8F8&bg_color=1D252C&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com?user=ashwinair&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD053B&sideLabels=FFFFFF&border=000000&stroke=FFFFFF&ring=C00433D9&currStreakLabel=FFFFFF&sideNums=0DC22E&currStreakNum=88F8B2&background=1D252C"/>|
 |---|---|
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Ashwin-exe&theme=github" />
+<img src="https://activity-graph.herokuapp.com/graph?username=ashwinair&theme=github" />
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Ashwin-exe/Ashwin-exe/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ashwinair/ashwinair/output/github-contribution-grid-snake.svg)
 
 <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/arnabsen1729/arnabsen1729/Build%20README?style=for-the-badge" align="right">
 <!-- TO-DO's
