@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * 0'
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: jbang
+        uses: jbangdev/jbang-action@v0.78.0
+        with:
+          script: update.java
+          scriptargs: "readme"
+        env:
+          JBANG_REPO: /root/.jbang/repository
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit README and push
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: readme.adoc
+          default_author: github_actions
+          message: Automatically update README.adoc
