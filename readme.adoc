@@ -10,7 +10,8 @@ endif::[]
 
 ===  Hi there 👋
 
-         Hey Ashwin here, a Computer science student and Open source enthusiast from INDIA,
+         Ashwin here, a Computer science student and Open source enthusiast from INDIA,
+
          I'm currently trying to improve my coding/programming skills by contributing to the open-source projects,
          creating small projects & debugging! those projects.
 
@@ -19,10 +20,10 @@ endif::[]
 
 === Recent Contribution
 
-https://github.com/revapi/revapi/pull/266[contribution]
-https://github.com/quarkusio/quarkus/pull/23207[contribution]
+https://github.com/revapi/revapi/pull/266
+https://github.com/quarkusio/quarkus/pull/23207
 
-===  Total no of commits from last 30 github-public-events : 11
+===  Total no of commits from last 30 github-public-events :  12
 
 [NOTE]
 ====
