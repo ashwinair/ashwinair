@@ -15,10 +15,10 @@ endif::[]
 === Recent Contribution
 
 {#for contribution in contributions}
-{contribution}[contribution]
+{contribution}
 {/for}
 
-===  Total no of commits from last 30 github-public-events : {totalNoOfContributions}
+===  Total no of commits from last 30 github-public-events :  {totalNoOfContributions}
 
 [NOTE]
 ====

@@ -48,7 +48,8 @@ public class update implements QuarkusApplication {
     public int run(String... args) throws Exception {
         List<String> contributions = new ArrayList<>();
         String bio = """     
-                          Hey Ashwin here, a Computer science student and Open source enthusiast from INDIA,
+                          Ashwin here, a Computer science student and Open source enthusiast from INDIA,
+                          
                           I'm currently trying to improve my coding/programming skills by contributing to the open-source projects,
                           creating small projects & debugging! those projects.
                           
