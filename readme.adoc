@@ -10,27 +10,23 @@ endif::[]
 
 ===  Hi there 👋
 
-Hey Ashwin here, a Computer science student from INDIA,
-I'm currently trying to improve my coding/programming skills by contributing to the open-source projects, creating small projects & debugging! and writing test-cases of the code which I wrote during school.😛
+         Hey Ashwin here, a Computer science student and Open source enthusiast from INDIA,
+         I'm currently trying to improve my coding/programming skills by contributing to the open-source projects,
+         creating small projects & debugging! those projects.
 
-"Debugging is like being the detective in a crime movie where you are also the murderer." 🕵️
+         "Debugging is like being the detective in a crime movie where you are also the murderer." 🕵️ 😛
 
 
-=== Recent Contribution :
+=== Recent Contribution
 
-https://github.com/revapi/revapi/pull/266 ::
+https://github.com/revapi/revapi/pull/266[contribution]
+https://github.com/quarkusio/quarkus/pull/23207[contribution]
 
-https://github.com/revapi/revapi/pull/266[Read further^]
-https://github.com/quarkusio/quarkus/pull/23207 ::
-
-https://github.com/quarkusio/quarkus/pull/23207[Read further^]
-
-===  Total Contribution of this Month : 11
-
+===  Total no of commits from last 30 github-public-events : 11
 
 [NOTE]
 ====
-This profile is automatically generated each day using https://quarkus.io with https://jbang.dev - see https://github.com/maxandersen/maxandersen/blob/master/update.java[update.java].
+This profile is automatically generated every week using https://quarkus.io with https://jbang.dev - see https://github.com/maxandersen/maxandersen/blob/master/update.java[update.java].
 
 inspired by https://github.com/maxandersen[maxandersen] & https://github.com/marketplace/actions/blog-post-workflow[this blog] :)
 ====
