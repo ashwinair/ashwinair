@@ -21,9 +21,8 @@ endif::[]
 === Recent Contribution
 
 https://github.com/revapi/revapi/pull/266
-https://github.com/quarkusio/quarkus/pull/23207
 
-===  Total no of commits from last 30 github-public-events :  12
+===  Total no of commits from last 30 github-public-events :  8
 
 [NOTE]
 ====
