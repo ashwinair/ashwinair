@@ -21,7 +21,7 @@ endif::[]
 === Recent Contribution
 
 
-===  Total no of commits from last 30 github-public-events :  3
+===  Total no of commits from last 30 github-public-events :  2
 
 [NOTE]
 ====
