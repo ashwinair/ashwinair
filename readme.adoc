@@ -20,10 +20,12 @@ endif::[]
 
 === Recent Contribution
 
+https://github.com/ashwinair/ahead-bot/pull/5
+https://github.com/ashwinair/ahead-bot/pull/5
 https://github.com/ashwinair/ahead-bot/pull/4
 https://github.com/ashwinair/ahead-bot/pull/4
 
-===  Total no of commits from last 30 github-public-events :  20
+===  Total no of commits from last 30 github-public-events :  22
 
 [NOTE]
 ====
