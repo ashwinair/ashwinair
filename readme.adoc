@@ -21,14 +21,14 @@ endif::[]
          I would love to join :)
 
 
-=== Recent Contribution
+=== Recent Contributions :
 
-{"* " + contribution}
-{"* " + contribution}
-{"* " + contribution}
-{"* " + contribution}
+* https://github.com/ashwinair/ahead-bot/pull/5
+* https://github.com/ashwinair/ahead-bot/pull/5
+* https://github.com/ashwinair/ahead-bot/pull/4
+* https://github.com/ashwinair/ahead-bot/pull/4
 
-===  Total no of commits from last 30 github-public-events :  22
+===  Total no of commits from last 30 github-public-events :  23
 
 [NOTE]
 ====
