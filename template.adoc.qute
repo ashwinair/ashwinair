@@ -12,10 +12,10 @@ endif::[]
 
 {bio}
 
-=== Recent Contribution
+=== Recent Contributions :
 
 {#for contribution in contributions}
-{"* " + contribution}
+* {contribution}
 {/for}
 
 ===  Total no of commits from last 30 github-public-events :  {totalNoOfContributions}
