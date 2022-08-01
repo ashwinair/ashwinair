@@ -15,14 +15,14 @@ endif::[]
 === Recent Contribution
 
 {#for contribution in contributions}
-{contribution}
+{"* " + contribution}
 {/for}
 
 ===  Total no of commits from last 30 github-public-events :  {totalNoOfContributions}
 
 [NOTE]
 ====
-This profile is automatically generated every week using https://quarkus.io with https://jbang.dev - see https://github.com/maxandersen/maxandersen/blob/master/update.java[update.java].
+This profile is automatically generated every week using https://quarkus.io with https://jbang.dev - see https://github.com/ashwinair/ashwinair/blob/main/update.java[update.java].
 
 inspired by https://github.com/maxandersen[maxandersen] & https://github.com/marketplace/actions/blog-post-workflow[this blog] :)
 ====
