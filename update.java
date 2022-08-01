@@ -47,16 +47,19 @@ public class update implements QuarkusApplication {
 
     public int run(String... args) throws Exception {
         List<String> contributions = new ArrayList<>();
-        String bio = """     
-                         I am Ashwin Nair, a Computer Science student and an Open source enthusiast from INDIA.
-                         I'm currently trying to improve my coding/programming skills and learning how to be a good software engineer by contributing to the various open-source projects and by creating side projects.
+        String bio = """
+                     
+                I am Ashwin Nair, a Computer Science student and an Open source enthusiast from INDIA.
+                I'm currently trying to improve my coding/programming skills and learning how to be a 
+                good software engineer by contributing to the various open-source projects and by 
+                creating side projects.
                                           
-                         * 🔭  I’m currently working on something cool 😉
-                         * 🌱  I’m currently learning  Go, Docker
-                         * 📫  How to reach me: ashwinnair0007@gmail.com
-                         * ⚡  Fun fact: I ❤️ 🐶s and FPP Gaming.
-                         * are you participating in any hackathons and want someone on your team?? please ping me, 
-                         I would love to join :)
+                * 🔭  I’m currently working on something cool 😉
+                * 🌱  I’m currently learning  Go, Docker
+                * 📫  How to reach me: ashwinnair0007@gmail.com
+                * ⚡  Fun fact: I ❤ 🐶s and FPP Gaming.
+                * are you participating in any hackathons and want someone on your team?? please ping me, 
+                  I would love to join :)
                 """;
         try {
             URL url = new URL("https://api.github.com/users/ashwinair/events/public");
