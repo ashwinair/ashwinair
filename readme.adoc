@@ -26,13 +26,13 @@ creating side projects.
 
 === Recent Contributions :
 
+* https://github.com/gitpod-io/gitpod/pull/12262
+* https://github.com/gitpod-io/gitpod/pull/12244
 * https://github.com/gitpod-io/gitpod/pull/12244
 * https://github.com/ashwinair/ahead-bot/pull/5
 * https://github.com/ashwinair/ahead-bot/pull/5
-* https://github.com/ashwinair/ahead-bot/pull/4
-* https://github.com/ashwinair/ahead-bot/pull/4
 
-===  Total no of commits from last 30 github-public-events :  19
+===  Total no of commits from last 30 github-public-events :  16
 
 [NOTE]
 ====
