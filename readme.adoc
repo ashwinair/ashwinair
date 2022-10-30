@@ -30,7 +30,7 @@ creating side projects.
 * https://github.com/gitpod-io/gitpod/pull/12244
 * https://github.com/gitpod-io/gitpod/pull/12244
 
-===  Total no of commits from last 30 github-public-events :  9
+===  Total no of commits from last 30 github-public-events :  8
 
 [NOTE]
 ====
