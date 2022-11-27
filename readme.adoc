@@ -26,11 +26,8 @@ creating side projects.
 
 === Recent Contributions :
 
-* https://github.com/gitpod-io/gitpod/pull/12262
-* https://github.com/gitpod-io/gitpod/pull/12244
-* https://github.com/gitpod-io/gitpod/pull/12244
 
-===  Total no of commits from last 30 github-public-events :  5
+===  Total no of commits from last 30 github-public-events :  2
 
 [NOTE]
 ====
