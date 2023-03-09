@@ -55,7 +55,7 @@ public class update implements QuarkusApplication {
                 creating side projects.
                                           
                 * 🔭  I’m currently working on something cool 😉
-                * 🌱  I’m currently learning  Go, Docker
+                * 🌱  I’m currently learning  Kotlin, ML
                 * 📫  How to reach me: ashwinnair0007@gmail.com
                 * ⚡  Fun fact: I ❤ 🐶s and FPP Gaming.
                 * are you participating in any hackathons and want someone on your team?? please ping me, 
@@ -83,13 +83,13 @@ public class update implements QuarkusApplication {
                     JSONObject JsonObj = (JSONObject) arr.get(i);
                     //System.out.println(obj.get("type"));
                     if(JsonObj.get("type").equals("PullRequestEvent"))  {
-                        System.out.println(i);
+                        //System.out.println(i);
                         totalNo++;
                         JSONObject payLoad  = (JSONObject) JsonObj.get("payload");
                         JSONObject  pull_request = (JSONObject ) payLoad.get("pull_request");
 
                         String html_url = (String) pull_request.get("html_url");
-                        System.out.println(html_url);
+                        //System.out.println(html_url);
                         contributions.add(html_url);
                     }
                     if(JsonObj.get("type").equals("PushEvent")){
