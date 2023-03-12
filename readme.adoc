@@ -17,7 +17,7 @@ good software engineer by contributing to the various open-source projects and b
 creating side projects.
 
 * 🔭  I’m currently working on something cool 😉
-* 🌱  I’m currently learning  Go, Docker
+* 🌱  I’m currently learning  Kotlin, ML
 * 📫  How to reach me: ashwinnair0007@gmail.com
 * ⚡  Fun fact: I ❤ 🐶s and FPP Gaming.
 * are you participating in any hackathons and want someone on your team?? please ping me,
@@ -27,7 +27,7 @@ creating side projects.
 === Recent Contributions :
 
 
-===  Total no of commits from last 30 github-public-events :  5
+===  Total no of commits from last 30 github-public-events :  6
 
 [NOTE]
 ====
