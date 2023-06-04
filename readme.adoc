@@ -27,7 +27,7 @@ creating side projects.
 === Recent Contributions :
 
 
-===  Total no of commits from last 30 github-public-events :  4
+===  Total no of commits from last 30 github-public-events :  2
 
 [NOTE]
 ====
