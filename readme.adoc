@@ -26,8 +26,13 @@ creating side projects.
 
 === Recent Contributions :
 
+* https://github.com/ashwinair/OptiWiseAI/pull/2
+* https://github.com/ashwinair/OptiWiseAI/pull/2
+* https://github.com/ashwinair/OptiWiseAI/pull/1
+* https://github.com/ashwinair/OptiWiseAI/pull/1
+* https://github.com/revapi/revapi/pull/266
 
-===  Total no of commits from last 30 github-public-events :  2
+===  Total no of commits from last 30 github-public-events :  12
 
 [NOTE]
 ====
