@@ -29,7 +29,7 @@ creating side projects.
 * https://github.com/ashwinair/OptiWiseAI/pull/4
 * https://github.com/ashwinair/OptiWiseAI/pull/4
 
-===  Total no of commits from last 30 github-public-events :  9
+===  Total no of commits from last 30 github-public-events :  8
 
 [NOTE]
 ====
