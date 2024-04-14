@@ -27,9 +27,8 @@ creating side projects.
 === Recent Contributions :
 
 * https://github.com/ashwinair/OptiWiseAI/pull/5
-* https://github.com/firebase/flutterfire/pull/12136
 
-===  Total no of commits from last 30 github-public-events :  8
+===  Total no of commits from last 30 github-public-events :  1
 
 [NOTE]
 ====
