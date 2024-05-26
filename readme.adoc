@@ -26,9 +26,8 @@ creating side projects.
 
 === Recent Contributions :
 
-* https://github.com/ashwinair/OptiWiseAI/pull/5
 
-===  Total no of commits from last 30 github-public-events :  1
+===  Total no of commits from last 30 github-public-events :  0
 
 [NOTE]
 ====
